@@ -11,13 +11,10 @@ The maximum to play in the human camp is 6 people, of which 3 are heroes while 1
 4. For the stack on the server you can look at the [Eternal Conflict server](https://github.com/herlandroando/eternal-conflict-server) repo.
 ## FAQ
 1. When will this game be released?
-I can't give you an exact date yet, but I estimate the end of 2024. Because this is a fun project, I apologize that it may be delayed :(
-
+<br>I can't give you an exact date yet, but I estimate the end of 2024. Because this is a fun project, I apologize that it may be delayed :(
 2. How to set up this game?
-You need to host the Eternal Conflict server locally or on your hosting. For links and tutorials on server set up, see this [link](https://github.com/herlandroando/eternal-conflict-server). Then you can clone/download this repo to deploy or run it on local of this UI.
-
+<br>You need to host the Eternal Conflict server locally or on your hosting. For links and tutorials on server set up, see this [link](https://github.com/herlandroando/eternal-conflict-server). Then you can clone/download this repo to deploy or run it on local of this UI.
 3. It is open source?
-Yes it is open source with MIT license. This is my idle project, hopefully I can finish it :D. If you want to use this code please let me know and include my name, because I love to see your innovation :).
-
+<br>Yes it is open source with MIT license. This is my idle project, hopefully I can finish it :D. If you want to use this code please let me know and include my name, because I love to see your innovation :).
 4. Can we collaboration on this development?
-Yes of course, I'm happy if you too might be curious and interested in this project. Contact me at herlandrotri@gmail.com.
+<br>Yes of course, I'm happy if you too might be curious and interested in this project. Contact me at herlandrotri@gmail.com.
